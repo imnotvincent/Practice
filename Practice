@@ -1,0 +1,25 @@
+// Filename: ip1a_VincentV_CyrusC_list.cpp
+// Description: Write a program that uses cout and endl to output text.
+
+#include <iostream> // cout
+
+using namespace std;
+
+// main function
+int main()
+
+{
+    cout << "Teams" << endl << endl;
+    
+    cout << "Blazers" << endl << "Lakers" << endl;
+    
+    cout << "Wariors" << endl << "Heat" << endl;
+    
+    cout << "Caveliers" << endl << "Pacers" << endl;
+    
+    cout << "Nuggets" << endl << "Suns"  << endl;
+    
+    cout << "Thunder" << endl << "Timberwolves";
+    
+    return 0;
+}
